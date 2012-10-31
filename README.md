@@ -44,5 +44,13 @@ Write speed: 194.81867mb/sec Unix with buffer
 
 fastest Write speed: 237.17066mb/sec
 
+**ALSO** switched to Macbook air 2012 i7 2.0ghz
+
+Elapsed time: 10.100016s	File Size: 3506.0648mb
+
+Write speed: 347.12816mb/sec
+
+***32% write speed inscrease!***
+
 
 more to come...
