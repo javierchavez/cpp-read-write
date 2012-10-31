@@ -1,3 +1,8 @@
+/*
+Name Javier Chavez
+email jchavez589@cnm.edu
+oct 31,2012
+*/
 #include "Timer.h"
 #include <stdlib.h>
 

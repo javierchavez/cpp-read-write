@@ -3,8 +3,6 @@ Currently testing for write speeds
 
 iterated through 19048576 times (4GB file produced)
 
-###First off Windows
-
 	//My string
 	const string mys = "111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111\n";
 	
@@ -13,6 +11,8 @@ iterated through 19048576 times (4GB file produced)
 	char my_buffer[buf_size];
 	
 	out.rdbuf()->pubsetbuf(my_buffer, buf_size);
+
+###First off Windows
 
 stream:
 
