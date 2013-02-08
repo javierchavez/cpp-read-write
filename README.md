@@ -2,6 +2,7 @@
 Currently testing for write speeds
 
 **Run With** do not run with gcc errors will comsume you
+
 	g++ main.cpp Timer.cpp 
 
 iterated through 19048576 times (4GB file produced)
